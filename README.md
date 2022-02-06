@@ -10,7 +10,7 @@
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/)
 
 ## Languages I Know
-[![Markdown clickable image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Markdown clickable image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Markdown clickable image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
