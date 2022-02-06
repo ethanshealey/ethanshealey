@@ -7,7 +7,7 @@
 
 🏠 Hometown: [High Point](https://www.highpointnc.gov/), North Carolina  
 🏫 University: [High Point University](https://www.highpoint.edu/)  
-📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/)
+📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/)   
 💻 Portfolio: [ethanshealey.com](http://www.ethanshealey.com)
 
 ## Languages I know
