@@ -8,7 +8,7 @@
 🏠 Hometown: [High Point](https://www.google.com/maps/place/High+Point,+NC/@35.9996099,-80.0537088,12z/data=!3m1!4b1!4m5!3m4!1s0x88530bc771b841eb:0xf2ee8a2d049910df!8m2!3d35.9556923!4d-80.0053176), North Carolina  
 🏫 University: [High Point University](https://www.highpoint.edu/)  
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/)   
-💻 Portfolio: [ethanshealey.com](http://www.ethanshealey.com)
+💻 Portfolio: [www.ethanshealey.com](http://www.ethanshealey.com)
 
 ## Languages I know
 [![Markdown clickable image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
