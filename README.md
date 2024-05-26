@@ -20,6 +20,7 @@
 [![Markdown clickable image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-FF1B2D?style=for-the-badge&logo=COBOL&logoColor=white)
 
 ## Frameworks and Platforms I know
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
